@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("งานส่ง3กพ2568")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+76e4b85632e63fee3e518bf8cad6fda9f338b977")]
 [assembly: System.Reflection.AssemblyProductAttribute("งานส่ง3กพ2568")]
 [assembly: System.Reflection.AssemblyTitleAttribute("งานส่ง3กพ2568")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
