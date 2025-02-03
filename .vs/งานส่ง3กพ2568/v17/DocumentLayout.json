@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0E07\u0E32\u0E19\\\u0E07\u0E32\u0E19\u0E2A\u0E48\u0E073\u0E01\u0E1E2568\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EE0A40C2-4FF1-49FA-A934-F474CCB43DC3}|\u0E07\u0E32\u0E19\u0E2A\u0E48\u0E073\u0E01\u0E1E2568.csproj|d:\\\u0E07\u0E32\u0E19\\\u0E07\u0E32\u0E19\u0E2A\u0E48\u0E073\u0E01\u0E1E2568\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EE0A40C2-4FF1-49FA-A934-F474CCB43DC3}|\u0E07\u0E32\u0E19\u0E2A\u0E48\u0E073\u0E01\u0E1E2568.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\\u0E07\u0E32\u0E19\\\u0E07\u0E32\u0E19\u0E2A\u0E48\u0E073\u0E01\u0E1E2568\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\\u0E07\u0E32\u0E19\\\u0E07\u0E32\u0E19\u0E2A\u0E48\u0E073\u0E01\u0E1E2568\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T13:21:42.636Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
